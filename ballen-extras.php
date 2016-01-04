@@ -4,7 +4,7 @@
  * Description: This plugin provides some extra functionality for Ballen sites
  * Author: Ryan McCahan
  * GitHub Plugin URI: https://github.com/mccahan/ballen-extras
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 // Callback function to insert 'styleselect' into the $buttons array

@@ -1,3 +1,31 @@
 p > iframe {
   max-width:100%;
 }
+
+.button {
+  background:#000 !important;
+  text-shadow:none;
+  border-style: solid;
+  border-width: 0px;
+  cursor: pointer;
+  font-family: "Montserrat","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin: 0 0 1.11111rem;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  display: inline-block;
+  padding-top: 0.88889rem;
+  padding-right: 1.77778rem;
+  padding-bottom: 0.94444rem;
+  padding-left: 1.77778rem;
+  font-size: 0.88889rem;
+  background-color: #16459a;
+  border-color: #12387b;
+  color: white !important;
+  transition: background-color 300ms ease-out;
+  text-transform: uppercase;
+}
