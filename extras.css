@@ -29,3 +29,16 @@ p > iframe {
   transition: background-color 300ms ease-out;
   text-transform: uppercase;
 }
+
+.wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetPrice div select {
+  margin-left:0 !important;
+}
+.wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath .wolfnet_widgetBeds select, .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath .wolfnet_widgetBaths select {
+  margin-left:0 !important;
+}
+.wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form label {
+  display:block !important;
+}
+.wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath, .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetPrice {
+  text-align:left !important;
+}
