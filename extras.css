@@ -33,12 +33,12 @@ p > iframe {
 .site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetPrice div select {
   margin-left:0 !important;
 }
-.wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath .wolfnet_widgetBeds select, .site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath .wolfnet_widgetBaths select {
+.site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath .wolfnet_widgetBeds select, .site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath .wolfnet_widgetBaths select {
   margin-left:0 !important;
 }
-.wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form label {
+.site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form label {
   display:block !important;
 }
-.wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath, .site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetPrice {
+.site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetBedBath, .site-inner .wolfnet_widget.wolfnet_quickSearch.wolfnet_wWide .wolfnet_quickSearch_form .wolfnet_widgetPrice {
   text-align:left !important;
 }
